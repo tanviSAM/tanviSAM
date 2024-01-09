@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanvi Samant</h1>
+<h1 align="center">Hi 👋, I'm Tanvi Rangnekar</h1>
 <h3 align="center">Full-Stack Web Developer by passion</h3>
 <br>
 <p align="center">An Architect in 2019 and a Full-stack web developer by 2022. As an architect I love to enhance and innovate ideas into reality and give them life, now I do the same with my passion in Web Development. I'm solution driven and ambitious, with skills of MERN stack as well as an ability to communicate effectively in a team setting.</p>
