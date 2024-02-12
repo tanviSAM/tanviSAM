@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **tanvianilsamant@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1WWBj7lZEz9f-07LAFyTKxkw6oOLVSnep/view?usp=sharing](https://drive.google.com/file/d/1WWBj7lZEz9f-07LAFyTKxkw6oOLVSnep/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanvi-samant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvi-samant" height="30" width="40" /></a>
